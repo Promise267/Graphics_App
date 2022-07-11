@@ -1,4 +1,4 @@
-Project: Graphcis App
+Project: Graphics App
 ==================================
 
 Introduction
