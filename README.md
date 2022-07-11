@@ -4,7 +4,7 @@ Project: Graphics App
 Introduction
 ------------
 
-This is a Graphcis App where the jar file contains the build of the interface and the functioning of hte interface is programmed according to the requiremnts. Here the user can draw simple graphics and save accordingly.
+This is a Graphcis App where the jar file contains the build of the interface and the functioning of the interface is programmed according to the requiremnts. Here, the user can draw simple graphics and save accordingly.
 
 
 Getting Started
